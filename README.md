@@ -6,6 +6,7 @@ My DSA Solutions in C++
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -14,14 +15,17 @@ My DSA Solutions in C++
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0877-stone-game](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0877-stone-game/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -35,4 +39,8 @@ My DSA Solutions in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0877-stone-game/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 <!---LeetCode Topics End-->

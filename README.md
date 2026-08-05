@@ -46,4 +46,16 @@ My DSA Solutions in C++
 | ------- | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [3731-find-missing-elements](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/3731-find-missing-elements/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0110-balanced-binary-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0110-balanced-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0110-balanced-binary-tree/) | Easy |
 <!---LeetCode Topics End-->

@@ -17,6 +17,7 @@ My DSA Solutions in C++
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0013-roman-to-integer/) | Easy |
+| [0067-add-binary](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0067-add-binary/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -44,6 +45,7 @@ My DSA Solutions in C++
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0067-add-binary/) | Easy |
 | [0877-stone-game](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0877-stone-game/) | Medium |
 | [2235-add-two-integers](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/2235-add-two-integers/) | Easy |
 ## Dynamic Programming
@@ -72,4 +74,12 @@ My DSA Solutions in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0110-balanced-binary-tree/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0067-add-binary/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->

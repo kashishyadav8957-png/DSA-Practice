@@ -23,6 +23,7 @@ My DSA Solutions in C++
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [1652-defuse-the-bomb](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -35,6 +36,7 @@ My DSA Solutions in C++
 | [0066-plus-one](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0066-plus-one/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0877-stone-game](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0877-stone-game/) | Medium |
+| [1652-defuse-the-bomb](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/1652-defuse-the-bomb/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/3731-find-missing-elements/) | Easy |
 ## Math

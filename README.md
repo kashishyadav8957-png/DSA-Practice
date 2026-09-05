@@ -10,6 +10,7 @@ My DSA Solutions in C++
 | [0012-integer-to-roman](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -29,6 +30,7 @@ My DSA Solutions in C++
 | [0003-longest-substring-without-repeating-characters](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0594-longest-harmonious-subsequence](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Counting
@@ -43,6 +45,7 @@ My DSA Solutions in C++
 | [0239-sliding-window-maximum](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0594-longest-harmonious-subsequence](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0877-stone-game](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0877-stone-game/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/1652-defuse-the-bomb/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |

@@ -34,6 +34,7 @@ My DSA Solutions in C++
 | [0424-longest-repeating-character-replacement](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Counting
@@ -49,6 +50,7 @@ My DSA Solutions in C++
 | [0594-longest-harmonious-subsequence](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0877-stone-game](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/1652-defuse-the-bomb/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -120,4 +122,12 @@ My DSA Solutions in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0239-sliding-window-maximum/) | Hard |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 <!---LeetCode Topics End-->

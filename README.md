@@ -10,6 +10,7 @@ My DSA Solutions in C++
 | [0012-integer-to-roman](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0141-linked-list-cycle](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -135,12 +136,15 @@ My DSA Solutions in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 <!---LeetCode Topics End-->

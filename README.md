@@ -106,6 +106,7 @@ My DSA Solutions in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0020-valid-parentheses/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,12 +141,14 @@ My DSA Solutions in C++
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
@@ -158,4 +161,8 @@ My DSA Solutions in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->

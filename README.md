@@ -49,6 +49,7 @@ My DSA Solutions in C++
 | ------- | ------- |
 | [0066-plus-one](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0066-plus-one/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0287-find-the-duplicate-number](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0877-stone-game](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -96,6 +97,7 @@ My DSA Solutions in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0067-add-binary/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +129,7 @@ My DSA Solutions in C++
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -143,10 +146,16 @@ My DSA Solutions in C++
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->

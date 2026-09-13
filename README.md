@@ -140,6 +140,7 @@ My DSA Solutions in C++
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0143-reorder-list/) | Medium |

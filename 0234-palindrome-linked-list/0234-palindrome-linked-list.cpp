@@ -9,27 +9,38 @@
  * };
  */
 class Solution {
-public:
-    bool isPalindrome(ListNode* head) {
-        vector<int> arr;
+public:   
+    bool isPalindrome(ListNode* head) {               //optimised solution
+    ListNode* slow=head;
+    ListNode* fast=head;
+    //Middle of the linked list
+    while(fast!=NULL && fast->next!=NULL){
+        slow=slow->next;
+        fast=fast->next->next;
+    }
 
-        ListNode* temp=head;
-        while(temp!=NULL){
-            arr.push_back(temp->val);
-            temp=temp->next;
+        //reverse the second half og the linkedlist
+        ListNode* prev=NULL;
+        ListNode* curr=slow;
+        while(curr!=NULL){
+            ListNode* next=curr->next;
+            curr->next=prev;
+            prev=curr;
+            curr=next;
+        } 
+        //compare first half and reversed second half
+        ListNode* left=head;
+        ListNode* right=prev;
+        while(right!=NULL){
+        if(left->val !=right->val){
+            return false;
         }
-        int left=0;
-        int right=arr.size()-1;
-        for(int i=0;i<arr.size();i++){
-            if(arr[left]!=arr[right]){
-                return false;
-            }
-            else 
-                left++;
-                right--;
+        right=right->next;
+        left=left->next;
+        
 
-        }
-         return true;           
-       
+    }
+    return true;
+        
     }
 };

@@ -106,6 +106,7 @@ My DSA Solutions in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0020-valid-parentheses/) | Easy |
+| [0143-reorder-list](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -141,6 +142,7 @@ My DSA Solutions in C++
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0143-reorder-list](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Two Pointers
@@ -148,6 +150,7 @@ My DSA Solutions in C++
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0143-reorder-list](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -164,5 +167,6 @@ My DSA Solutions in C++
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0143-reorder-list](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->

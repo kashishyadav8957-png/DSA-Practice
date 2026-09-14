@@ -177,4 +177,8 @@ My DSA Solutions in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0836-rectangle-overlap/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->

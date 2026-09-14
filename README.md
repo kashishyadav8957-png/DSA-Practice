@@ -49,6 +49,7 @@ My DSA Solutions in C++
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0066-plus-one/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0594-longest-harmonious-subsequence/) | Easy |
@@ -73,6 +74,7 @@ My DSA Solutions in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0053-maximum-subarray/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0877-stone-game](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0877-stone-game/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |

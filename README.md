@@ -65,6 +65,7 @@ My DSA Solutions in C++
 | [0013-roman-to-integer](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0067-add-binary/) | Easy |
+| [0836-rectangle-overlap](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0877-stone-game/) | Medium |
 | [2235-add-two-integers](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/2235-add-two-integers/) | Easy |
 ## Dynamic Programming
@@ -172,4 +173,8 @@ My DSA Solutions in C++
 | [0143-reorder-list](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->

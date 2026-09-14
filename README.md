@@ -47,6 +47,7 @@ My DSA Solutions in C++
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0066-plus-one/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -71,6 +72,7 @@ My DSA Solutions in C++
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0877-stone-game](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0877-stone-game/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -184,4 +186,8 @@ My DSA Solutions in C++
 | [0181-employees-earning-more-than-their-managers](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0584-find-customer-referee](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0584-find-customer-referee/) | Easy |
 | [0620-not-boring-movies](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0620-not-boring-movies/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->

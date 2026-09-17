@@ -58,6 +58,7 @@ My DSA Solutions in C++
 | [1004-max-consecutive-ones-iii](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/1652-defuse-the-bomb/) | Easy |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3731-find-missing-elements](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/3731-find-missing-elements/) | Easy |
@@ -78,6 +79,7 @@ My DSA Solutions in C++
 | [0152-maximum-product-subarray](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0877-stone-game](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0877-stone-game/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -57,6 +57,7 @@ My DSA Solutions in C++
 | [0904-fruit-into-baskets](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -158,6 +159,7 @@ My DSA Solutions in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -94,14 +94,17 @@ My DSA Solutions in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +119,7 @@ My DSA Solutions in C++
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0143-reorder-list](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0143-reorder-list/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |

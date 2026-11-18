@@ -27,6 +27,7 @@ My DSA Solutions in C++
 | [0020-valid-parentheses](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0067-add-binary](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0067-add-binary/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0647-palindromic-substrings](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0647-palindromic-substrings/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -78,6 +79,7 @@ My DSA Solutions in C++
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0647-palindromic-substrings](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0647-palindromic-substrings/) | Medium |
 | [0877-stone-game](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0877-stone-game/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
@@ -178,6 +180,7 @@ My DSA Solutions in C++
 | [0143-reorder-list](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0647-palindromic-substrings](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0647-palindromic-substrings/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/kashishyadav8957-png/DSA-Practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
